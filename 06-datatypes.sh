@@ -9,3 +9,6 @@ echo "the sum of $NUMBER1 and $NUMBER2 is : $SUM"
 # multiplication
 MUL=$(($NUMBER1*$NUMBER2))
 echo " the multiplication of $NUMBER1 and $NUMBER2 is : $MUL"
+# subtraction
+SUB=$(($NUMBER1-$NUMBER2))
+ECHO " The subtraction of $NUMBER1 and $NUMBER2 is : $SUB"
