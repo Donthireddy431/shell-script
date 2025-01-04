@@ -7,5 +7,5 @@ echo "script is executed :: $TIMESTAMP"
 SUM=$(($NUMBER1+$NUMBER2))
 echo "the sum of $NUMBER1 and $NUMBER2 is : $SUM"
 # multiplication
-MUL=(($NUMBER1*$NUMBER2))
+MUL=$(($NUMBER1*$NUMBER2))
 echo " the multiplication of $NUMBER1 and $NUMBER2 is : $MUL
